@@ -1,6 +1,6 @@
  ![MasterHead](https://media.licdn.com/dms/image/D4D16AQEC-UfbdvWpng/profile-displaybackgroundimage-shrink_350_1400/0/1688833068752?e=1694044800&v=beta&t=M-PQtAUoqF_97JqJqOqeQRoLni_Wz6CmXYSo-xVCt8w)
 <h1 align="center">Hi 👋, I'm Berkay Polat</h1>
-<h3 align="center">Game Developer</h3>
+<h3 align="center">Game Developer & Game Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1159713/screenshots/3397424/game-box-gif.gif">
 
 
