@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkayplt" alt="berkayplt" /></a> </p>
 
+- 🔭 I’m currently working on **Unity**
+
 - 👨‍💻 All of my projects are available at [berkaypolatt.com](berkaypolatt.com)
+
+- 📫 How to reach me **berkaypolaat@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KFZXTipKO3DbYogNty_6MxYbGoNKeo8n/view?usp=sharing](https://drive.google.com/file/d/1KFZXTipKO3DbYogNty_6MxYbGoNKeo8n/view?usp=sharing)
 
