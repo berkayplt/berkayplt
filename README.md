@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Unity & C#**
 
-- 👨‍💻 All of my projects are available at [berkaypolatt.com](https://berkaypolatt.com/portfolio.html)
+- 👨‍💻 All of my projects are available at [berkaypolat.com](https://berkaypolat.com)
 
 
 - 📫 How to reach me **berkaypolaat@gmail.com**
